@@ -16,6 +16,4 @@
 | 第四課 | API 呼叫與 Claude SDK | ⏳ 待學 |
 | 第五課 | 建立第一個 AI Agent | ⏳ 待學 |
 
-## 關於作者
 
-何浚熙 Harry Ho — 澳門人，北京理工大學國際經濟與貿易，即將入讀香港中文大學 MSc Business Analytics。金融從業者，正在學習 AI 開發。
